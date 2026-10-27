@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="384" viewBox="0 0 1280 384" role="img" aria-labelledby="title desc">
+  <title id="title">杨炜晨：把知识做成可以体验的作品</title>
+  <desc id="desc">以电气与无人机为专业起点，连接互动学习、实用工具与 AI 协作开发的技术方向示意图，并非项目截图。</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#eff8f4"/><stop offset="1" stop-color="#e8eff7"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#9db6ae" stroke-width="0.6" opacity="0.22"/></pattern>
+  </defs>
+  <rect width="1280" height="384" rx="22" fill="url(#bg)"/>
+  <rect width="1280" height="384" rx="22" fill="url(#grid)"/>
+  <path d="M0 346H290l30-30h165M1070 0v70l40 40h170" fill="none" stroke="#b7cbc6" stroke-width="2"/>
+  <g fill="#2e8d77"><circle cx="485" cy="316" r="5"/><circle cx="1070" cy="70" r="5"/></g>
+  <g font-family="'Microsoft YaHei','Noto Sans CJK SC',Arial,sans-serif">
+    <rect x="64" y="50" width="148" height="28" rx="14" fill="#174d43"/>
+    <text x="138" y="69" text-anchor="middle" fill="#ffffff" font-size="12" letter-spacing="1.5">OPEN PROJECTS</text>
+    <text x="62" y="139" fill="#173d36" font-size="52" font-weight="700">杨炜晨</text>
+    <text x="64" y="185" fill="#23483f" font-size="26" font-weight="600">把知识做成可以体验的作品</text>
+    <text x="64" y="227" fill="#4f6b65" font-size="17">电气与无人机 · 互动学习 · 实用工具 · AI 协作开发</text>
+    <text x="64" y="284" fill="#56716a" font-size="14" letter-spacing="2">DISCOVER  /  BUILD  /  VERIFY  /  SHARE</text>
+    <g transform="translate(760 73)">
+      <path d="M128 60v31M128 151v31M70 121H38M218 121h-32" stroke="#69a796" stroke-width="2" fill="none"/>
+      <path d="M38 121V30h49M218 121v91h-49" stroke="#a9bdc8" stroke-width="2" fill="none"/>
+      <rect x="64" y="0" width="128" height="60" rx="12" fill="#fff" stroke="#b4cdc5"/>
+      <text x="128" y="27" text-anchor="middle" fill="#244a40" font-size="17" font-weight="600">专业实践</text>
+      <text x="128" y="47" text-anchor="middle" fill="#657c75" font-size="11">电气 / 无人机</text>
+      <rect x="64" y="91" width="128" height="60" rx="12" fill="#174d43"/>
+      <text x="128" y="119" text-anchor="middle" fill="#fff" font-size="17" font-weight="600">AI 协作</text>
+      <text x="128" y="138" text-anchor="middle" fill="#c5e6dc" font-size="11">研究 / 构建 / 核查</text>
+      <rect x="64" y="182" width="128" height="60" rx="12" fill="#fff" stroke="#b4cdc5"/>
+      <text x="128" y="209" text-anchor="middle" fill="#244a40" font-size="17" font-weight="600">开放作品</text>
+      <text x="128" y="229" text-anchor="middle" fill="#657c75" font-size="11">代码 / 文档 / 体验</text>
+      <circle cx="38" cy="121" r="6" fill="#639f90"/>
+      <circle cx="218" cy="121" r="6" fill="#639f90"/>
+    </g>
+    <text x="1208" y="351" text-anchor="end" fill="#7b908a" font-size="11">技术方向示意 · 非运行截图</text>
+  </g>
+</svg>
